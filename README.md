@@ -1,5 +1,5 @@
 # Ecommerce Website
-###### View Link: https://khuzaimax.github.io/Responsive-website/
+###### View Link:https://khuzaimax.github.io/Responsive-webpage/
 # Structure
 The Contacts at the bottom are responsible for handling the business logic.
 The Components are mainly used for the View Layer.
