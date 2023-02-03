@@ -7,4 +7,4 @@ The Components are mainly used for the View Layer.
 - The store is based on HTML, CSS and JavaScript.
 - It is a responsive website
 - The main objective was to make a e-commerce website that would have a quite appealing design that would be attractive for user.
-- The website has 5 different sections and each one has a unique style 
+- The website has 5 different sections and each one has a unique style
